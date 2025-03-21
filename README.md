@@ -1,24 +1,25 @@
-## Hi Everyone 👋, Amrik here
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=AMRIK+SINGH;Flutter+Developer;Tech+Enthusiast" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmrikSingh1/amazon_clone/refs/heads/main/amrik_singh.SVG">
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200" alt="Coding Animation"/>
+</div>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" />
 </p>
 
-### Here is some info on me
+## About Me 💫
 
-- 💻 I'm currently working on PathOne (a large-scale Ai career guidance platform)
-- 🌱 I'm currently learning App Development
-- 🤝 I'm looking for help to build PathOne Project with me , if you have ever built a Ai Integrated App, please reach out!
+- 💻 I'm currently working on **PathOne** (a large-scale AI career guidance platform)
+- 🌱 I'm currently learning **App Development**
+- 🤝 I'm looking for help to build PathOne Project with me, if you have ever built an AI Integrated App, please reach out!
 - ⚡ Fun fact: Humans put a man on the moon -- before they put wheels on luggage.
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -28,17 +29,34 @@
   <img src="https://img.shields.io/badge/FlutterFlow-FF6600?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
 
-### 📫 Connect with me
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+</div>
 
-### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
-![AmrikSingh1's Stats](https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
 
-![AmrikSingh1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-![AmrikSingh1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+## Connect With Me
+<div align="center">
+  <a href="https://github.com/AmrikSingh1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-
-
+<!-- Footer Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
