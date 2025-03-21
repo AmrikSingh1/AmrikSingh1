@@ -10,4 +10,7 @@
 AmrikSingh1/AmrikSingh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Profile Views](https://komarev.com/ghpvc/?username=AmrikSingh1&color=green)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" />
+</p>
+
