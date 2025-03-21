@@ -10,7 +10,7 @@
 AmrikSingh1/AmrikSingh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-VISITORS COUNTER -  - <p align="center">
-  <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" />
+VISITORS COUNTER - <p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmrikSingh1&count_bg=%237E3ACE&title_bg=%2315171B&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
 </p>
 
