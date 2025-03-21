@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmrikSingh1&count_bg=%2300C9FF&title_bg=%23FF2D55&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrikSingh1&style=plastic&color=blue" />
 </p>
-
