@@ -17,7 +17,6 @@
   <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" alt="Profile Visitors" />
 </div>
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
 </div>
@@ -110,10 +109,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" />
-</div>
-
 <p align="center">
   <a href="https://github.com/AmrikSingh1">
     <img src="https://github-profile-trophy.vercel.app/?username=AmrikSingh1&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
@@ -122,3 +117,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" />
+</div>
