@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <h3>👁️ PROFILE VISITORS 👁️</h3>
-  <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" alt="Profile Unique Visitors" />
+  <h3>👁️ PROFILE UNIQUE VISITORS 👁️</h3>
+  <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" alt="Profile Visitors" />
 </div>
 
 <div align="center">
