@@ -1,23 +1,27 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=AMRIK+SINGH;Flutter+Developer;Tech+Enthusiast" />
+mg src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=8A2BE2&center=true&vCenter=true&width=600&height=100&lines=AMRIK+SINGH;Flutter+Developer;Tech+Innovator" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="200" alt="Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="Developer Animation"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=App+Developer;UI%2FUX+Designer;Flutter+Expert;Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" />
 </p>
 
-## About Me 💫
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me 
 
 - 💻 I'm currently working on **PathOne** (a large-scale AI career guidance platform)
 - 🌱 I'm currently learning **App Development**
-- 🤝 I'm looking for help to build PathOne Project with me, if you have ever built an AI Integrated App, please reach out!
+- 🤝 I'm looking for help to build PathOne Pr# <div align="center">
+  <ioject with me, if you have ever built an AI Integrated App, please reach out!
 - ⚡ Fun fact: Humans put a man on the moon -- before they put wheels on luggage.
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -30,10 +34,10 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" />
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
@@ -48,14 +52,21 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
 </div>
 
-## Connect With Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> Connect With Me
 <div align="center">
   <a href="https://github.com/AmrikSingh1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </div>
 
 <!-- Footer Wave Animation -->
