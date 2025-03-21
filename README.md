@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6d18f2&height=200&section=header&text=AMRIK%20SINGH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Tech%20Innovator&descAlignY=60&descAlign=50" width="100%" />
 </div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syncopate&weight=700&size=25&duration=2500&pause=500&color=6d18f2&center=true&width=600&height=100&lines=FLUTTER+DEVELOPER;UI/UX+DESIGNER;TECH+INNOVATOR;AI+ENTHUSIAST" alt="Typing SVG" />
 </p>
-
 <div align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="Contribution Grid Animations">
@@ -44,9 +42,6 @@
   <span style="color:#6d18f2;">TECH STACK</span>
 </h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,docker,github,figma&theme=dark" alt="Skills Icon" />
-</div>
 
 <br/>
 
