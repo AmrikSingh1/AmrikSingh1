@@ -1,4 +1,4 @@
-## Hi Everyone 👋, Tanay here
+## Hi Everyone 👋, Amrik here
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/AmrikSingh1/count.svg" />
@@ -6,35 +6,34 @@
 
 ### Here is some info on me
 
-- 💻 I'm currently working on [building a chrome extension](#)
-- 🌱 I'm currently learning **Full Stack Web Development**
-- 🤝 I'm looking for help with [building a chrome extension](#), if you have ever built one, please reach out!
+- 💻 I'm currently working on PathOne (a large-scale Ai career guidance platform)
+- 🌱 I'm currently learning App Development
+- 🤝 I'm looking for help to build PathOne Project with me , if you have ever built a Ai Integrated App, please reach out!
 - ⚡ Fun fact: Humans put a man on the moon -- before they put wheels on luggage.
 
 ### 🛠️ Tech Stack:
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlutterFlow-FF6600?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
 
 ### 📫 Connect with me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Tanaykmr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanaykmr)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://tanaykmr.com)
 
 ### 📊 GitHub Stats:
 
-![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanaykmr&show_icons=true&theme=tokyonight)
+![AmrikSingh1's Stats](https://github-readme-stats.vercel.app/api?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanaykmr&layout=compact&theme=tokyonight)
+![AmrikSingh1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmrikSingh1&theme=tokyonight&hide_border=false)
+
+![AmrikSingh1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrikSingh1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
+
